@@ -1,0 +1,3 @@
+C:\Users\antos\source\repos\Diploma_Orders\Diploma_Orders\Diploma_Orders\x64\Debug\Diploma_Orders.vcxproj.AssemblyReference.cache
+C:\Users\antos\source\repos\Diploma_Orders\Diploma_Orders\Diploma_Orders\x64\Debug\DiplomaOrders.InventoryForm.resources
+C:\Users\antos\source\repos\Diploma_Orders\Diploma_Orders\Diploma_Orders\x64\Debug\Diploma_Orders.vcxproj.GenerateResource.cache

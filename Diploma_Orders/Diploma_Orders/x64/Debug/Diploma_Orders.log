@@ -1,0 +1,7 @@
+﻿  InventoryForm.cpp
+C:\Users\antos\source\repos\Diploma_Orders\Diploma_Orders\Diploma_Orders\InventoryForm.h(918,12): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\antos\source\repos\Diploma_Orders\Diploma_Orders\Diploma_Orders\InventoryForm.h(932,46): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\antos\source\repos\Diploma_Orders\Diploma_Orders\Diploma_Orders\InventoryForm.h(1035,36): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\antos\source\repos\Diploma_Orders\Diploma_Orders\Diploma_Orders\InventoryForm.h(922): warning C4715: 'DiplomaOrders::InventoryForm::find_row_id': not all control paths return a value
+  InventoryForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Diploma_Orders.vcxproj -> C:\Users\antos\source\repos\Diploma_Orders\Diploma_Orders\x64\Debug\Diploma_Orders.exe
